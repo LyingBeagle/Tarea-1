@@ -48,4 +48,4 @@ Cada libro posee una cola de reserva en la que se guardan estudiantes que quiera
 * Diseño de la interfaz
 * Documentacion y redaccion de README
 
-* [![Run on Repl.it](https://replit.com/badge/github/LyingBeagle/Tarea-1.git)](https://replit.com/new/github/LyingBeagle/Tarea-1.git)
+[![Run on Repl.it](https://replit.com/badge/github/LyingBeagle/Tarea-1.git)](https://replit.com/new/github/LyingBeagle/Tarea-1.git)
