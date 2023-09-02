@@ -8,15 +8,15 @@ Se permite registrar libros, mostrarlos, retirarlos, devolverlos, mostrar los li
 Cada libro posee una cola de reserva en la que se guardan estudiantes que quieran retirar el libro que deseen.
 
 ## Compilar y ejecutar codigo
-### Desde sistema
 ---
+### Desde sistema
 * Descarge e instale [git](https://git-scm.com/downloads)
 * Entre a `cmd` en su sistema
 * Clone el repositorio con `git clone https://github.com/LyingBeagle/Tarea-1.git`
 * Navege al directorio con `cd Tarea-1`
 * Compile el codigo con `gcc *.c -o programa`
 * Ejecute la aplicacion con `/programa.exe`
-
+* 
 ### Desde Replit
 * Abra su cuenta en repl.it (si no tiene cree una a través de su cuenta en github)
 * En el home de repl.it busque la tarea y clónela para comenzar a trabajar, en caso de no encontrarla inserte `https://github.com/LyingBeagle/Tarea-1.git` donde le pide la URL 
