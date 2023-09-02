@@ -54,7 +54,7 @@ Cada libro posee una cola de reserva en la que se guardan estudiantes que quiera
 
 ## Contribuciones
 
-### Alonso Bravo:
+### Alonso B:
 * Desarrollo completo de la aplicacion
 * Diseño de la interfaz
 * Documentacion y redaccion de README
