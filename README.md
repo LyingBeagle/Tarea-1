@@ -7,12 +7,23 @@ La aplicacion es una gestion de biblioteca.
 Se permite registrar libros, mostrarlos, retirarlos, devolverlos, mostrar los libros prestados e importar y exportar en un archivo CSV los datos de los libros.   
 Cada libro posee una cola de reserva en la que se guardan estudiantes que quieran retirar el libro que deseen.
 
-## Ejecutar codigo
-* Abra su cuenta en repl.it (si no tiene cree una a través de su cuenta en github)
-* En el home de repl.it busque el lab y clónelo para comenzar a trabajar
-* Seleccione el lenguaje (C), simplemente presionando el boton run bastara para ejecutar el programa
-* Solo utilize `main.c` cuando pruebe el programa al presionar **Run**
+## Compilar y ejecutar codigo
+### Desde sistema
+---
+* Descarge e instale [git](https://git-scm.com/downloads)
+* Entre a `cmd` en su sistema
+* Clone el repositorio con `git clone https://github.com/LyingBeagle/Tarea-1.git`
+* Navege al directorio con `cd Tarea-1`
+* Compile el codigo con `gcc *.c -o programa`
+* Ejecute la aplicacion con `/programa.exe`
 
+### Desde Replit
+* Abra su cuenta en repl.it (si no tiene cree una a través de su cuenta en github)
+* En el home de repl.it busque la tarea y clónela para comenzar a trabajar, en caso de no encontrarla inserte `https://github.com/LyingBeagle/Tarea-1.git` donde le pide la URL 
+* Seleccione el lenguaje (C)
+* Una vez importado, escriba `gcc *.c -o main` para configurar la complacion
+* Una vez guardado, presione el boton **Run** para probar el programa
+---
 ## Funciones
 
 ### Principales
@@ -47,5 +58,3 @@ Cada libro posee una cola de reserva en la que se guardan estudiantes que quiera
 * Desarrollo completo de la aplicacion
 * Diseño de la interfaz
 * Documentacion y redaccion de README
-
-[![Run on Repl.it](https://replit.com/badge/github/LyingBeagle/Tarea-1.git)](https://replit.com/new/github/LyingBeagle/Tarea-1.git)
