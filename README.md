@@ -16,7 +16,6 @@ Cada libro posee una cola de reserva en la que se guardan estudiantes que quiera
 * Navege al directorio con `cd Tarea-1`
 * Compile el codigo con `gcc *.c -o programa`
 * Ejecute la aplicacion con `/programa.exe`
-* 
 ### Desde Replit
 * Abra su cuenta en repl.it (si no tiene cree una a través de su cuenta en github)
 * En el home de repl.it busque la tarea y clónela para comenzar a trabajar, en caso de no encontrarla inserte `https://github.com/LyingBeagle/Tarea-1.git` donde le pide la URL 
