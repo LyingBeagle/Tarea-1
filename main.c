@@ -202,7 +202,10 @@ void reservarLibro(List* listaLibros){
     scanf(" %20[^\n]", nombreEstudiante);
 
     //Se cambia el estado y se añade al estudiante a la lista de reservas del libro
-    strcpy(libroEncontrado->estado,"Reservado");
+
+    if(strcmp(libroEncontrado->estado, "Prestado") != 0){
+        strcpy(libroEncontrado->estado,"Reservado");
+    }
     
     pushBack(libroEncontrado->reservas, strdup(nombreEstudiante)); //Se añade al final
 
@@ -484,7 +487,7 @@ void mostrarReservas(List* listaReservas){
 
     while(current != NULL){
         char* nombreEstudiante = (char*)current;
-        printf("%s\n", nombreEstudiante);
+        printf("- %s\n", nombreEstudiante);
 
         current = nextList(listaReservas);
     }
