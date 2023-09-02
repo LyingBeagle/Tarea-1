@@ -15,7 +15,7 @@ Cada libro posee una cola de reserva en la que se guardan estudiantes que quiera
   > Si no tiene git puede descargarlo [aquí](https://git-scm.com/downloads)
 * Navegue al directorio con `cd Tarea-1`
 * Compile el código con `gcc *.c -o programa`
-  > Si no tiene compilador puede descárgalo [aqui](https://www.mingw-w64.org/downloads/)
+  > Si no tiene compilador puede descargalo [aquí](https://www.mingw-w64.org/downloads/)
 * Ejecute la aplicación con `programa.exe`
 ### Desde Replit
 * Abra su cuenta en repl.it (si no tiene cree una a través de su cuenta en github)
@@ -59,3 +59,4 @@ Cada libro posee una cola de reserva en la que se guardan estudiantes que quiera
 * Desarrollo completo de la aplicación
 * Diseño de la interfaz
 * Documentación y redacción de README
+
