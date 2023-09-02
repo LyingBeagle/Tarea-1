@@ -12,10 +12,10 @@ Cada libro posee una cola de reserva en la que se guardan estudiantes que quiera
 ### Desde sistema
 * Entre a `cmd` en su sistema
 * Clone el repositorio con `git clone https://github.com/LyingBeagle/Tarea-1.git`
-  > Si no tiene git puede descargarlo [aca](https://git-scm.com/downloads)
+  > Si no tiene git puede descargarlo [aqui](https://git-scm.com/downloads)
 * Navege al directorio con `cd Tarea-1`
 * Compile el codigo con `gcc *.c -o programa`
-  > Si no tiene compilador puede descargalo [aca](https://www.mingw-w64.org/downloads/)
+  > Si no tiene compilador puede descargalo [aqui](https://www.mingw-w64.org/downloads/)
 * Ejecute la aplicacion con `programa.exe`
 ### Desde Replit
 * Abra su cuenta en repl.it (si no tiene cree una a través de su cuenta en github)
